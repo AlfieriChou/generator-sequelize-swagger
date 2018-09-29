@@ -1,6 +1,6 @@
 {
   "name": "generator-sequelize-swagger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yeoman generator sequelize swagger ",
   "homepage": "https://github.com/Alfieri-Jun-teams/generator-sequelize-swagger",
   "author": {

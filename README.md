@@ -16,10 +16,10 @@ Then generate your new project:
 yo sequelize-swagger
 ```
 
-Project name: (you can write project name to this project, default joi_swagger)
+Project name: (you can write project name to this project, default sequelize_swagger)
 
 ```bash
-Enter project name:  (joi_swagger)
+Enter project name:  (sequelize_swagger)
 ```
 
 Project version: (you can write project version to this project, default: 1.0.0)
