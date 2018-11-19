@@ -1,4 +1,7 @@
 # generator-sequelize-swagger [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/AlfieriChou/generator-sequelize-swagger.svg)](https://greenkeeper.io/)
+
 > yeoman generator koa joi swagger 
 
 ## Installation
